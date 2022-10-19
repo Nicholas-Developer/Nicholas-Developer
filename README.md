@@ -7,7 +7,11 @@
 - 💬 Ask me about - Jobs.
 - 🥅 2023 Goal - To The Moon.
 
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=nicholas-developer&count_private=true&include_all_commits=true&theme=vue)](https://google.com)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholas-developer&layout=compact&langs_count=7&theme=vue"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicholas-developer&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Meus Conhecimentos.
 
