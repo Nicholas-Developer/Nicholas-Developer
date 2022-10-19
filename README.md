@@ -12,11 +12,11 @@
 ## Meus Conhecimentos.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=markdown,figma,bash,vscode,github,html,css,js,"/>
+    <img src="https://skillicons.dev/icons?i=markdown,vercel,bash,figma,vscode,html,css,js,"/>
 </a>
 
 ## Entre em contato comigo.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,linkedin,twitter,instagram"/>
+    <img src="https://skillicons.dev/icons?i=discord,github,linkedin,twitter,instagram"/>
 </a>
