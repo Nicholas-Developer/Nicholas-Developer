@@ -12,10 +12,8 @@
 ## Meus Conhecimentos.
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=markdown,figma,bash,vscode,github,html,css,js," />
+    <img src="https://skillicons.dev/icons?i=markdown,figma,bash,vscode,github,html,css,js,"/>
 </a>
-
-
 
 ## Entre em contato comigo.
 
