@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil.
+## Bem-vindo ao meu perfil.
 
 ## Sobre mim.
 
